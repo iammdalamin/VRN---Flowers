@@ -1,0 +1,99 @@
+{
+  "orders": [
+    {
+      "id": 1795280263018,
+      "name": "Himu",
+      "phone": "+79952517697",
+      "address": "Ushinskogo 4",
+      "note": "Place the order to door",
+      "items": [
+        {
+          "id": 1,
+          "name": "Blush Peonies",
+          "price": 1800,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "name": "Red Rose Dozen",
+          "price": 1500,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "name": "Sunflower Armful",
+          "price": 1200,
+          "qty": 1
+        }
+      ],
+      "total": 4500,
+      "status": "Preparing",
+      "createdAt": "2026-11-21T16:57:43.018Z"
+    }
+  ],
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Blush Peonies",
+      "category": "Bouquets",
+      "price": 1800,
+      "emoji": "🌸",
+      "color": "#F7C6D9",
+      "desc": "Twelve soft peonies wrapped in kraft paper."
+    },
+    {
+      "id": 2,
+      "name": "Red Rose Dozen",
+      "category": "Roses",
+      "price": 1500,
+      "emoji": "🌹",
+      "color": "#E8546F",
+      "desc": "Long-stem roses, cut the morning you order."
+    },
+    {
+      "id": 3,
+      "name": "Sunflower Armful",
+      "category": "Bouquets",
+      "price": 1200,
+      "emoji": "🌻",
+      "color": "#F3D36B",
+      "desc": "Eight bright sunflowers with greenery."
+    },
+    {
+      "id": 4,
+      "name": "White Tulips",
+      "category": "Seasonal",
+      "price": 1000,
+      "emoji": "🌷",
+      "color": "#EDE3F5",
+      "desc": "A clean bunch of ten tulips in a glass-ready bundle."
+    },
+    {
+      "id": 5,
+      "name": "Lavender Pot",
+      "category": "Plants",
+      "price": 900,
+      "emoji": "🪻",
+      "color": "#C9B6E4",
+      "desc": "Potted lavender that keeps blooming indoors."
+    },
+    {
+      "id": 6,
+      "name": "Orchid in Ceramic",
+      "category": "Plants",
+      "price": 2600,
+      "emoji": "🪷",
+      "color": "#F2B8C6",
+      "desc": "Phalaenopsis orchid in a hand-glazed pot."
+    },
+    {
+      "id": 1795280206305,
+      "name": "Sunflower",
+      "category": "Bouquets",
+      "price": 400,
+      "emoji": "💐",
+      "color": "#F7C6D9",
+      "desc": "Beautiful"
+    }
+  ]
+}

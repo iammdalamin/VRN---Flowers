@@ -1,0 +1,12 @@
+{
+  "name": "flower-shop",
+  "version": "1.0.0",
+  "description": "Terminal 1:  cd server && npm install && npm start      (API on :4000) Terminal 2:  cd client && npm install && npm run dev    (site on :5173)",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
