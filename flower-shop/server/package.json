@@ -2,6 +2,7 @@
   "name": "flower-server",
   "type": "module",
   "scripts": {
+    "build": "node --check server.js",
     "start": "node server.js"
   },
   "dependencies": {
